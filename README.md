@@ -38,6 +38,7 @@ Para começar a explorar este projeto, você precisará configurar um ambiente P
 ### Execução
 
 Para iniciar a interface gráfica, execute o seguinte comando no diretório do projeto clonado:
+streamlit run main.py
 
 Siga as instruções na interface para interagir com o robô através dos comandos disponibilizados.
 
